@@ -9,6 +9,7 @@ My name is Mariano and i'm a Backend Developer 💻
 - Java
 - Python
 - jUnit
+- Git
 ## Contact ☎️
 - marianochun01@gmail.com
 - My [Linkedin](https://www.linkedin.com/in/mariano-chun-775840206/)
