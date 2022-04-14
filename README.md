@@ -12,7 +12,9 @@ My name is Mariano and i'm a Backend Developer 💻
 # Tech 
 - jUnit
 - Git
-- UML
+- Eclipse
+- VS Code
+- Linux
 ## Contact ☎️
 - marianochun01@gmail.com
 - My [Linkedin](https://www.linkedin.com/in/mariano-chun-775840206/)
