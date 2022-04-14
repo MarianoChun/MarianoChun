@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is Mariano and i'm a Backend Developer 💻 
-- Currently learning Golang and technologies such as Heroku, Postman and MongoDB
+- Currently learning Golang, and technologies such as Heroku, Postman, MongoDB and SQL
 - In the last weeks, i've been working on a Twitter clone, using the tech mentioned before
 - Starting my 3rd year of college (Bachelors degree in Systems) and halfway to achieve my intermediate degree
 - Goals for this 2022: Learn databases, finish my reading of Clean Code and find my first professional experience in Backend developement.
