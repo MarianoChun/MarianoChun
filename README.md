@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is Mariano and i'm a Backend Developer 💻 
 - Currently learning Java Spring and SQL
-- In the last weeks, i've been working on differents university projects, using knowns algorithms for graphs like Prim and Kruskal.
+- In the last weeks, i've been working on differents university projects, using knowns algorithms for graphs like Prim and Dijkstra.
 - Coursing my 3rd year of college (Bachelors degree in Systems) and halfway to achieve my intermediate degree
 - Goals for this 2022: Learn databases, finish my reading of Clean Code and find my first professional experience in Backend developement.
 # Languages 
