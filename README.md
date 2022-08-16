@@ -5,13 +5,15 @@ My name is Mariano and i'm a Backend Developer 💻
 - Coursing my 3rd year of college (Bachelors degree in Systems) and halfway to achieve my intermediate degree
 - Goals for this 2022: Learn databases, finish my reading of Clean Code and find my first professional experience in Backend developement.
 # Languages 
-- Assembly
-- Golang
 - Java
+- Golang
 - Python
+- Assembly
 # Tech 
+- Spring Boot
 - jUnit
 - Git
+- Postman
 - Eclipse
 - Linux
 ## Contact ☎️
