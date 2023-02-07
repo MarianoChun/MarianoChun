@@ -1,12 +1,12 @@
 # Hi there 👋
 My name is Mariano and i'm a Backend Developer 💻 
-- Currently learning Java Spring and SQL
-- In the last weeks, i've been working on differents university projects, using knowns algorithms for graphs like Prim and Dijkstra.
-- Coursing my 3rd year of college (Bachelors degree in Systems) and halfway to achieve my intermediate degree
-- Goals for this 2022: Learn databases, finish my reading of Clean Code and find my first professional experience in Backend developement.
+- I'm currently working as an IT Intern in Andreani, learning a lot of C#/.Net and Golang.
+- Coursing my 4th year of college (Bachelors degree in Systems) with 3 subjects away to achieve my intermediate degree
+- Goals for this 2023: Read "Clean architecture", some book related to Golang and improve my tech stack as much as i can :smile:.
 # Languages 
 - Java
 - Golang
+- C#
 - Python
 - Assembly
 # Tech 
