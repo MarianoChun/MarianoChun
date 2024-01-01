@@ -1,20 +1,16 @@
 # Hi there 👋
 My name is Mariano and i'm a Backend Developer 💻 
-- I'm currently working as an IT Intern in Andreani, learning a lot of C#/.Net and Golang.
-- Coursing my 4th year of college (Bachelors degree in Systems) with 3 subjects away to achieve my intermediate degree
-- Goals for this 2023: Read "Clean architecture", some book related to Golang and improve my tech stack as much as i can :smile:.
+- I'm currently working as Backend/Go Developer at Andreani
+- Coursing my 5th year of college (Bachelors degree in Systems)
+- Goals for this 2024: Improve my insights about Software Architecture and learn about good practices as much as i can :smile:.
 # Languages 
 - Java
 - Golang
-- C#
-- Python
 - Assembly
 # Tech 
 - Spring Boot
 - jUnit
 - Git
-- Postman
-- Eclipse
 - Linux
 ## Contact ☎️
 - marianochun01@gmail.com
