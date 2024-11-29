@@ -5,9 +5,9 @@ My name is Mariano and i'm a Backend Developer 💻
 # Languages 
 - Java
 - Golang
-- Assembly
 # Tech 
 - Spring Boot
+- GinGonic
 - jUnit
 - Git
 - Linux
